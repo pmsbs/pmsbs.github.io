@@ -1,3 +1,8 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pmsbs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Departamento de Tecnologia e Inovação - Prefeitura Municipal de São Bento do Sapucaí" # the name of your site, e.g. ACME Corp.
+lang: 'pt-BR' # the language of your site, e.g. en-US
+description: "Site oficial do Departamento de Tecnologia e Inovação da Prefeitura Municipal de São Bento do Sapucaí" # a short description of your site
+author:
+  name: "Lucas Oliveira"
+  email: "gerenteti@saobentodosapucai.sp.gov.br"
