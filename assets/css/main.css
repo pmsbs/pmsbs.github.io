@@ -1,0 +1,53 @@
+:root {
+  --color-text: #333;
+  --color-primary: #095B2E;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html, body {
+  min-height: 100vh;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--color-text)
+}
+
+.navbar {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.navbar__inner {
+  text-align: center;
+}
+
+.navbar__brand {
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: .4s;
+
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 72rem;
+  margin-left: auto;
+  margin-right: auto;
+}
