@@ -69,3 +69,22 @@ html, body {
     margin-bottom: .5rem;
   }
 }
+
+.footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.footer__links {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.footer__link {
+  text-decoration: none;
+  font-size: 0.75rem;
+  line-height: 1;
+}
