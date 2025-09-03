@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Política de Segurança da Informação"
 ---
 
-# Política de Segurança da Informação
-
-Prefeitura de São Bento do Sapucaí/SP
 
 ## Objetivo
 

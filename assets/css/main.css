@@ -1,6 +1,7 @@
 :root {
   --color-text: #333;
   --color-primary: #095B2E;
+  --color-text-invert: #fff;
 }
 
 *,
@@ -17,20 +18,20 @@ html, body {
   min-height: 100vh;
 }
 
-body {
+.page {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   color: var(--color-text)
 }
 
+.page__hero {
+  margin-bottom: 2rem;
+}
+
 .navbar {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-
-.navbar__inner {
-  text-align: center;
 }
 
 .navbar__brand {
@@ -50,4 +51,21 @@ body {
   max-width: 72rem;
   margin-left: auto;
   margin-right: auto;
+}
+
+.hero {
+  background-color: var(--color-primary);
+  color: var(--color-text-invert);
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.post {
+  p, ul, li {
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    margin-bottom: .5rem;
+  }
 }

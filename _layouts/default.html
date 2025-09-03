@@ -6,13 +6,23 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
-  <body>
+  <body class="page">
     <nav class="navbar">
-      <div class="container navbar__inner">
+      <div class="container">
         <a class="navbar__brand" href="/">Prefeitura Municipal de São Bento do Sapucaí</a>
       </div>
     </nav>
 
-    {{ content }}
+    <header class="hero page__hero">
+      <div class="container hero__inner">
+        <h1>
+          {{ page.title }}
+        </h1>
+      </div>
+    </header>
+
+    <div class="container">
+      {{ content }}
+    </div>
   </body>
 </html>
