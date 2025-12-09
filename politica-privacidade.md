@@ -121,12 +121,11 @@ A PREFEITURA MUNICIPAL DE SÃO BENTO DO SAPUCAÍ/SP empreenderá todos os esfor�
 
 Por fim, você deverá estar ciente de que a sua requisição poderá ser legalmente rejeitada, seja por motivos formais (a exemplo de sua incapacidade de comprovar sua identidade) ou legais (a exemplo do pedido de exclusão de dados cuja manutenção é livre exercício de direito pela prefeitura municipal).
 
-
 ## COMO FALAR COM A PREFEITURA MUNICIPAL SOBRE PRIVACIDADE?
 
 O Encarregado pela Proteção de Dados (DPO) da PREFEITURA MUNICIPAL DE SÃO BENTO DO SAPUCAÍ/SP é o Sr. Wesley Yago da Silva Rosa.
 
-Para que você exerça algum de seus direitos previstos nesta Política ou na legislação pertinente, ou se você tiver dúvidas, comentários ou sugestões referentes a esta política, poderá entrar em contato com o DPO pelo e-mail (EMAIL DO DPO).
+Para que você exerça algum de seus direitos previstos nesta Política ou na legislação pertinente, ou se você tiver dúvidas, comentários ou sugestões referentes a esta política, poderá entrar em contato com o DPO pelo e-mail [gerenteti@saobentodosapucai.sp.gov.br](mailto:gerenteti@saobentodosapucai.sp.gov.br).
 
 ## E OS COOKIES?
 
