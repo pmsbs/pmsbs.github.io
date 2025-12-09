@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Política de segurança da informação"
+title: "Departamento de Tecnologia e Inovação"
 ---
 
 # Departamento de Tecnologia e Inovação
