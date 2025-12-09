@@ -5,8 +5,6 @@ title: "Política de segurança da informação"
 
 # Política de segurança da informação
 
-Prefeitura de São Bento do Sapucaí/SP
-
 # Objetivo
 Com o propósito de reforçar a segurança e confiabilidade ao nosso trabalho, apresentamos a nossa Política de Segurança da Informação (“PSI”), concedendo o amplo conhecimento sobre nossas diretrizes relacionadas à segurança e proteção da informação.
 
