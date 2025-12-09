@@ -23,3 +23,4 @@ As mencionadas práticas tiveram suas implementações realizadas nos ambientes 
 - [Princípios de Segurança da Informação](politica-seguranca-informacao/principios)
 - [Responsabilidades](politica-seguranca-informacao/responsabilidades)
 - [Diretrizes](politica-seguranca-informacao/diretrizes)
+- [Classificação das informações e controle de acesso](politica-seguranca-informacao/classificacao-informacoes)
