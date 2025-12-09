@@ -35,5 +35,7 @@ A presente Política de Segurança da Informação visa informar e orientar sobr
 ## Referências
 
 ABNT NBR ISO/IEC 27001:2022 Tecnologia da informação — Técnicas de segurança — Sistemas de gestão da segurança da informação — Requisitos.
+
 ABNT NBR ISO/IEC 27002:2022 Tecnologia da informação — Técnicas de segurança — Código de prática para controles de segurança da informação.
+
 ABNT NBR ISO/IEC 27701:2019 – Tecnologia da Informação – Técnicas de segurança – gestão da privacidade da informação — Requisitos e diretrizes.
