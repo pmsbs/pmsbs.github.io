@@ -20,3 +20,4 @@ A aplicação desta Política de Segurança da Informação ocorre de maneira im
 As mencionadas práticas tiveram suas implementações realizadas nos ambientes computacionais da Prefeitura, estendendo-se, mas não se limitando a todos os servidores, bases de dados, sistemas operacionais, hardware, software, dispositivos de redes, telefonia, dispositivos móveis, além de ambientes de terceiros que de forma física ou lógica estejam integrados ou conectados nos ambientes da Prefeitura.
 
 - [Privacidade](politica-seguranca-informacao/privacidade)
+- [Princípios de Segurança da Informação](politica-seguranca-informacao/principios)
