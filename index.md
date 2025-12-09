@@ -25,3 +25,15 @@ As mencionadas práticas tiveram suas implementações realizadas nos ambientes 
 - [Diretrizes](politica-seguranca-informacao/diretrizes)
 - [Classificação das informações e controle de acesso](politica-seguranca-informacao/classificacao-informacoes)
 - [Senhas de Acesso](politica-seguranca-informacao/senhas)
+- [Controles internos](politica-seguranca-informacao/controles-internos)
+- [Sanções em caso de violação](politica-seguranca-informacao/sancoes)
+
+## Disposições Finais
+
+A presente Política de Segurança da Informação visa informar e orientar sobre as normas e medidas relacionadas à segurança e proteção da informação da Prefeitura de São Bento do Sapucaí, a qual é revisada, no mínimo anualmente ou quando ocorrer mudanças significativas.
+
+## Referências
+
+ABNT NBR ISO/IEC 27001:2022 Tecnologia da informação — Técnicas de segurança — Sistemas de gestão da segurança da informação — Requisitos.
+ABNT NBR ISO/IEC 27002:2022 Tecnologia da informação — Técnicas de segurança — Código de prática para controles de segurança da informação.
+ABNT NBR ISO/IEC 27701:2019 – Tecnologia da Informação – Técnicas de segurança – gestão da privacidade da informação — Requisitos e diretrizes.
