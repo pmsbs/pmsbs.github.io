@@ -21,3 +21,4 @@ As mencionadas práticas tiveram suas implementações realizadas nos ambientes 
 
 - [Privacidade](politica-seguranca-informacao/privacidade)
 - [Princípios de Segurança da Informação](politica-seguranca-informacao/principios)
+- [Responsabilidades](politica-seguranca-informacao/responsabilidades)
