@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Política de segurança da informação"
 ---
 
