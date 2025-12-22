@@ -1,5 +1,7 @@
 :root {
   --color-primary: #095B2E;
+  --color-text: #333;
+  --color-border: #e3e3e3;
 }
 
 *,
@@ -16,7 +18,7 @@ body {
   font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
-  color: #333;
+  color: var(--color-text);
 
   @media only screen and (min-width: 768px) {
     font-size: 1.125rem;
