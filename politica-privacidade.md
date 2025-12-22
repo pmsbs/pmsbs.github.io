@@ -3,8 +3,6 @@ layout: post
 title: "Política de Privacidade"
 ---
 
-# Política de Privacidade
-
 Este Aviso de Privacidade indica como os seus dados pessoais são tratados em razão do uso do nosso site. Ao navegar em nosso site, você concorda com a nossa Política de Privacidade e nos autoriza a tratar os seus dados pessoais da forma aqui descrita para que possamos lhe atender da melhor forma possível.
 
 A PREFEITURA MUNICIPAL DE SÃO BENTO DO SAPUCAÍ/SP, localizada na Av. Sebastião de Mello Mendes, 511, Jd. Santa Terezinha, entende como extremamente relevantes os registros eletrônicos e os dados pessoais deixados por você (“Titular”) na utilização do site da PREFEITURA MUNICIPAL DE SÃO BENTO DO SAPUCAÍ/SP, servindo a presente Política de Privacidade para regular, de forma simples, transparente e objetiva, quais dados pessoais serão obtidos, assim como quando e de qual forma eles poderão ser utilizados.

@@ -3,8 +3,6 @@ layout: post
 title: "Política de Cookies"
 ---
 
-# Política de Cookies
-
 Nosso site utiliza cookies, em combinação com pixels, objetos de armazenamento locais e dispositivos similares para distingui-lo de outros usuários do site. Isso nos ajuda a fornecer uma boa experiência, melhorar nosso serviço e personalizar conteúdo para você enquanto usa o site.
 
 Esta Política de Cookies descreve os tipos de cookies e quais usamos no site e nossos propósitos para usá-los.
