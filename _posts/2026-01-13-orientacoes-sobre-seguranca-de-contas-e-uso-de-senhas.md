@@ -46,7 +46,7 @@ A reutilização de senhas deve ser evitada ao máximo para conter danos em caso
 
 Softwares que armazenam senhas complexas em um banco de dados criptografado, protegido por uma única "senha mestre". Eles permitem que o servidor utilize senhas únicas e aleatórias para cada serviço sem a necessidade de memorizá-las individualmente.
 
-**A utilização de gerenciadores de senhas é a prática recomendada pelo Departamento de Tecnologia e Inovação**. Assim é possível minimizar o número de senhas sem perda significativa de segurança
+**A utilização de gerenciadores de senhas é a prática recomendada pelo Departamento de Tecnologia e Inovação**. Assim é possível minimizar o número de senhas sem perda significativa de segurança.
 
 Exemplo de utilização de aplicativo de gerenciamento de senha:
 
