@@ -78,6 +78,5 @@ No momento da digitação, alguns cuidados são essenciais:
 
 ## Referencias
 
-- https://guia.autodefesa.org/
-- https://cs50.harvard.edu/cybersecurity/notes/0/
--
+- [Guia da Autodefesa Digital](https://guia.autodefesa.org/)
+- [CS50’s Introduction to Cybersecurity Lecture 1](https://cs50.harvard.edu/cybersecurity/notes/0/)
