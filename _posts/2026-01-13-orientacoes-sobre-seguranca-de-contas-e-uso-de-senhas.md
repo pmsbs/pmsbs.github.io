@@ -75,3 +75,9 @@ No momento da digitação, alguns cuidados são essenciais:
 ## Limite da Confiabilidade
 
 É fundamental compreender que nenhuma senha garante inviolabilidade absoluta. Senhas podem ser descobertas por falhas de protocolo, implementação ou até mesmo por coação física em casos extremos. A consciência do servidor sobre o valor dos dados que manipula é a camada de segurança mais importante da administração pública.
+
+## Referencias
+
+- https://guia.autodefesa.org/
+- https://cs50.harvard.edu/cybersecurity/notes/0/
+-
