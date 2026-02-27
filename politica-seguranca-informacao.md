@@ -71,6 +71,8 @@ Em relação últimas duas hipóteses, o gestor da área responsável terá a de
 
 Em observância ao princípio de liberação de “acesso mínimo” os acessos serão disponibilizados considerando a necessidade para a finalidade específica ao atendimento da prestação de serviço de cada função. Dessa forma, o gestor da área possui acesso a todas as informações de cunho interno e confidencial, enquanto os demais servidores somente terão acesso a essas informações necessárias para o desempenho da sua função.
 
+Ainda, em relação às informações confidenciais, todos os servidores da Prefeitura devem assinar um termo de confidencialidade, a partir de sua contratação ou oportunamente em aditivo específico, com as devidas responsabilidades especificadas e previsão das penalidades em caso de descumprimento.
+
 Todos os processos que envolvem armazenamento, transferência, utilização e descarte das informações confidenciais serão tratados com controles e mecanismos que visam proporcionar o máximo de integridade e proteção contra acesso não autorizado, observando as demais políticas e procedimentos da Prefeitura.
 
 ## Senhas de Acesso
