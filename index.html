@@ -2,18 +2,16 @@
 layout: default
 title: "Departamento de Tecnologia e Inovação"
 ---
-<div class="container">
-  {% for post in site.posts %}
-    <article class="post">
-      <h2 class="post__title">
-        {{ post.title }}
-      </h2>
+{% for post in site.posts %}
+  <article class="post">
+    <h2 class="post__title">
+      {{ post.title }}
+    </h2>
 
-      {{ post.excerpt }}
+    {{ post.excerpt }}
 
-      <a href="{{ post.url }}">
-        Continue lendo...
-      </a>
-    </article>
-  {% endfor %}
-</div>
+    <a href="{{ post.url }}">
+      Continue lendo...
+    </a>
+  </article>
+{% endfor %}
