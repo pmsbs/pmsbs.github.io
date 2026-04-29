@@ -1,9 +1,9 @@
 --- 
 --- 
-@use "base";
-@use "container";
-@use "page";
-@use "navbar";
-@use "header";
-@use "footer";
-@use "post";
+@import "base";
+@import "container";
+@import "page";
+@import "navbar";
+@import "header";
+@import "footer";
+@import "post";
