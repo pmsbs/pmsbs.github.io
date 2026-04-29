@@ -3,7 +3,6 @@ layout: default
 title: "Política de segurança da informação"
 ---
 
-## Objetivo
 Com o propósito de reforçar a segurança e confiabilidade ao nosso trabalho, apresentamos a nossa Política de Segurança da Informação (“PSI”), concedendo o amplo conhecimento sobre nossas diretrizes relacionadas à segurança e proteção da informação.
 
 Diante disso, a presente política visa orientar, estabelecer diretrizes, critérios, regras e procedimentos relacionados a utilização dos recursos disponibilizados pela Prefeitura aos seus servidores, fornecedores e parceiros, bem como ao uso de senha dos sistemas, rede, telefonias e internet.
