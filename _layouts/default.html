@@ -30,6 +30,10 @@
       <div class="container">
         <h1 class="header__title">
           {{ page.title }}
+
+          {% if page.subtitle %}
+            <span class="header__subtitle">{{ page.subtitle }}</span>
+          {% endif %}
         </h1>
       </div>
     </header>
