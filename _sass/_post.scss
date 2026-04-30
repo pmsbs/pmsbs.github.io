@@ -4,17 +4,17 @@
   gap: 2rem;
 }
 
-.post-list__item {
+.post-item {
   text-decoration: none;
-  color: inherit;
   transition: color 0.3s ease;
+  color: var(--color-text);
+
+  .post-item__title {
+    color: inherit
+  }
 
   &:hover {
     color: var(--color-primary);
-  }
-
-  p {
-    margin-bottom: 0;
   }
 }
 
