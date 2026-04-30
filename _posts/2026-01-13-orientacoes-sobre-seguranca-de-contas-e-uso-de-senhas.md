@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Orientações sobre Segurança de Contas e Uso de Senhas
 ---
 
