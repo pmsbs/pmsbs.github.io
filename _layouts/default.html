@@ -51,17 +51,7 @@
         {{ content }}
       </main>
 
-      <aside>
-        <h3>Categorias</h3>
-        <ul>
-          {% for category in site.categories %}
-            {% capture category_name %}{{ category | first }}{% endcapture %}
-            <li>
-              <a href="/#{{ category_name | slugify }}">{{ category_name | capitalize }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </aside>
+      {% include categories.html %}
     </div>
 
 
