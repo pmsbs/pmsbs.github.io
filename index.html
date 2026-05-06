@@ -2,16 +2,15 @@
 layout: default
 title: "Departamento de Tecnologia e Inovação"
 ---
-<div class="post-list">
-  {% for post in site.posts %}
-    <article>
-      <a class="post-item" href="{{ post.url | relative_url }}">
-        <h2 class="post-item__title">
-          {{ post.title }}
-        </h2>
-
-        {{ post.excerpt }}
-      </a>
-    </article>
-  {% endfor %}
-</div>
+{% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <h2 id="{{ category_name | slugify }}">{{ category_name | capitalize}}</h2>
+  <ul>
+    {% for post in site.categories[category_name] %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span>({{ post.date | date_to_string }})</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
