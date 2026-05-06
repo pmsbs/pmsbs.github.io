@@ -90,8 +90,16 @@ svg {
     margin-bottom: 2rem;
   }
 
-  &__content {
-    max-width: 64ch;
+  &__inner {
+    display: grid;
+    row-gap: 2rem;
+    column-gap: 4rem;
+  }
+
+  @media only screen and (min-width: 768px) {
+    &__inner {
+      grid-template-columns: 3fr 1fr;
+    }
   }
 }
 

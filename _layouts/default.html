@@ -46,9 +46,24 @@
       </div>
     </header>
 
-    <div class="container page__content">
-      {{ content }}
+    <div class="container page__inner">
+      <main>
+        {{ content }}
+      </main>
+
+      <aside>
+        <h3>Categorias</h3>
+        <ul>
+          {% for category in site.categories %}
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <li>
+              <a href="/#{{ category_name | slugify }}">{{ category_name | capitalize }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
     </div>
+
 
     <footer class="footer">
       <div class="container">
