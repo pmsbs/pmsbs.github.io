@@ -2,6 +2,7 @@
 layout: post
 title: "Política de Privacidade"
 category: politicas
+author: lucas
 ---
 
 Este Aviso de Privacidade indica como os seus dados pessoais são tratados em razão do uso do nosso site. Ao navegar em nosso site, você concorda com a nossa Política de Privacidade e nos autoriza a tratar os seus dados pessoais da forma aqui descrita para que possamos lhe atender da melhor forma possível.

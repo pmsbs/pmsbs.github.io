@@ -2,6 +2,7 @@
 layout: post
 title: "Política de Gestão de Ativos"
 category: politicas
+author: lucas
 ---
 
 O objetivo desta política é garantir que os ativos de informação sejam identificados adequadamente e que os controles de proteção recomendados para estes ativos de informação estejam em vigor.

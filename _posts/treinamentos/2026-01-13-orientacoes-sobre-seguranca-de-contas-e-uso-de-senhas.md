@@ -2,6 +2,7 @@
 layout: post
 title: Orientações sobre Segurança de Contas e Uso de Senhas
 category: treinamentos
+author: lucas
 ---
 
 No exercício de nossas funções públicas, a proteção das informações municipais é uma prioridade estratégica. Este documento apresenta orientações para a criação e manutenção de credenciais de acesso seguras.

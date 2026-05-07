@@ -2,6 +2,7 @@
 layout: post
 title: "Política de Cookies"
 category: politicas
+author: lucas
 ---
 Nosso site utiliza cookies, em combinação com pixels, objetos de armazenamento locais e dispositivos similares para distingui-lo de outros usuários do site. Isso nos ajuda a fornecer uma boa experiência, melhorar nosso serviço e personalizar conteúdo para você enquanto usa o site.
 
