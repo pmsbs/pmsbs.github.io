@@ -1,7 +1,16 @@
 ---
-layout: 'page'
+layout: 'layout'
 ---
+<header class="header">
+  <div class="container header__inner">
+    <h1 class="header__title">{{ page.title }}</h1>
+  </div>
+</header>
 
-<article class="post">
-  {{content}}
-</article>
+<div class="container page__inner">
+  <article class="post">
+    {{content}}
+  </article>
+
+  {% include categories.html %}
+</div>
