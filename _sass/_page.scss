@@ -86,14 +86,12 @@ svg {
 .page {
   min-height: 100vh;
 
-  &__header {
-    margin-bottom: 2rem;
-  }
-
   &__inner {
     display: grid;
     row-gap: 2rem;
     column-gap: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   @media only screen and (min-width: 768px) {
@@ -179,9 +177,9 @@ svg {
 }
 
 .footer {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
   text-align: center;
   color: var(--color-text);
   font-size: 0.75rem;
+  border-top: 1px solid var(--color-border);
 }
