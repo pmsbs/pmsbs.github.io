@@ -163,18 +163,18 @@ svg {
     padding-top: 8rem;
     padding-bottom: 8rem;
   }
-}
 
-.header__title {
-  color: var(--color-white);
-  text-align: center;
-  font-size: 3rem;
-  font-weight: 900;
+  &__title {
+    color: var(--color-white);
+    font-size: 3rem;
+    font-weight: 900;
 
-  @media only screen and (min-width: 768px) {
-    font-size: 4.5rem;
+    @media only screen and (min-width: 768px) {
+      font-size: 4.5rem;
+    }
   }
 }
+
 
 .footer {
   padding: 1rem;
