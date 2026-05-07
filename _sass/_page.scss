@@ -164,13 +164,19 @@ svg {
     padding-bottom: 8rem;
   }
 
+  &__inner {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+  }
+
   &__title {
     color: var(--color-white);
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;
 
     @media only screen and (min-width: 768px) {
-      font-size: 4.5rem;
+      font-size: 4rem;
     }
   }
 }
